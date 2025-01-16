@@ -1,0 +1,5 @@
+../USB_HOST/App/usb_host.c:67:6:MSC_Application	3
+../USB_HOST/App/usb_host.c:98:6:USB_Error_Handler	1
+../USB_HOST/App/usb_host.c:114:6:MX_USB_HOST_Init	4
+../USB_HOST/App/usb_host.c:141:6:MX_USB_HOST_Process	1
+../USB_HOST/App/usb_host.c:149:13:USBH_UserProcess	4
